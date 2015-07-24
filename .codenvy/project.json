@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"system:/java/web/jetty9":{"ram":1000,"variables":{},"options":{}}},"default":"system:/java/web/jetty9"},"description":"Back end support for Cluttrnut","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
